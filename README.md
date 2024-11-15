@@ -1,0 +1,1 @@
+This project contains the first Odin HTML project called odin-recipes. I will be applying some HTML fundamentals that I learned from the Foundations course. 
